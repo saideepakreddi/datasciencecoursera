@@ -7,3 +7,5 @@ output: html_document
 ## This is Markdown file
 
 Created to check/track the projects in data analytics
+
+1st Check was successful
